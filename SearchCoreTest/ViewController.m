@@ -67,6 +67,9 @@
     self.searchByPhone = phoneIDArray;
     [phoneIDArray release];
     
+        //用法是这样的    //用法是这样的
+    
+    
     
     //用法是这样的
     ContactPeople *contact = [[ContactPeople alloc] init];
